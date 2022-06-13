@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8b0e5d27-cc77-466c-aed2-ee0b4ff093b2/deploy-status)](https://app.netlify.com/sites/interview-app2/deploys)
+
 Una aplicación web realizada en Reactjs donde se podrá:
 
 - listar
@@ -6,8 +8,8 @@ Una aplicación web realizada en Reactjs donde se podrá:
 
 # Login
 
-para poder usar las funcionalidades necesitamos la parte [backend](https://github.com/brayanmf/back_interview) de usuario o
-puedes usar la muestra desplegado en : [netlify](www.google.com)
+para poder usar las funcionalidades necesitamos la parte [backend](https://github.com/brayanmf/back_interview) para el usuario o
+puedes usar la muestra desplegado en : [netlify](https://interview-app2.netlify.app/)
 
 - **usuario :** admin o admin2
 - **contraseña :** admin o admin2
