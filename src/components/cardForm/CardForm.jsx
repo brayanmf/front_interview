@@ -28,8 +28,8 @@ const CardForm = () => {
 			setTimeout(() => setEffect(false), 1000);
 			return;
 		}
-		if (!form.name || !form.category || !form.description) {
-			alert('Faltan datos');
+		if (!form.name || form.category === 'default' || !form.description) {
+			alert('Rellene los campos');
 			return;
 		}
 
