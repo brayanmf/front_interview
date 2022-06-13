@@ -11,7 +11,7 @@ Una aplicación web realizada en Reactjs donde se podrá:
 para poder usar las funcionalidades necesitamos la parte [backend](https://github.com/brayanmf/back_interview) para el usuario o
 puedes usar la muestra desplegado en : [netlify](https://interview-app2.netlify.app/)
 
-- **usuario :** admin o admin2
+- **usuario :** admin o admin
 - **contraseña :** admin o admin2
 
 [![login.png](https://i.postimg.cc/G3X4X1GG/login.png)](https://postimg.cc/LhZ4swy8)
